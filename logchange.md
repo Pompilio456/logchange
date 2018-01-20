@@ -4,7 +4,7 @@
 
 VOY A EDITAR UN CAMBIO ABAJO
 
-** Cree: **
+**Cree:**
 
 - Archivo de edicion
 - Carga del archivo
