@@ -1,10 +1,10 @@
 # Changelog
 
-# # v1.0.0 - 20/01/2018
+## v1.0.0 - 20/01/2018
 
-vOY A EDITAR UN CAMBIO ABAJO
+VOY A EDITAR UN CAMBIO ABAJO
 
-** Cree:**
+** Cree: **
 
 - Archivo de edicion
 - Carga del archivo
